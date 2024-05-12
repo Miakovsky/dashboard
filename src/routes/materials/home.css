@@ -1,0 +1,21 @@
+#main {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+h2 {
+    font-size: 50px;
+    color: rgb(62, 130, 231);
+}
+
+h3 {
+    color: rgb(137, 171, 223);
+}
+
+h1 {
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    font-size: 80px;
+    color: rgb(32, 63, 109);
+}
